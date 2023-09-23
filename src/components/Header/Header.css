@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0px;
+    font-weight: 700;
+}
+
+.time {
+    padding: 5px;
+}
+
+.icons {
+    width: 70px;
+    display: flex;
+    justify-content: space-between;
+}

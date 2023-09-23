@@ -1,0 +1,13 @@
+.pdfView {
+    position: absolute;
+    top: 0px;
+}
+
+.pdfView .react-pdf__Page__canvas {
+    height: 100% !important;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+}

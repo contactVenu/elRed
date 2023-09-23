@@ -1,0 +1,7 @@
+.filename {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10%;
+    margin: 0px 10%;
+    font-size: 15px;
+}
